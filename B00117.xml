@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hæc-vir: or, The womanish-man: being an answere to a late booke intituled Hic-mulier. Exprest in a briefe dialogue betweene Hæc-vir the womanish-man, and Hic-mulier the man-woman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00117</idno>
+            <idno type="STC">STC 12599</idno>
+            <idno type="STC">ESTC S106169</idno>
+            <idno type="EEBO-CITATION">99841892</idno>
+            <idno type="PROQUEST">99841892</idno>
+            <idno type="VID">174714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 960:5 or 2119:13b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hæc-vir: or, The womanish-man: being an answere to a late booke intituled Hic-mulier. Exprest in a briefe dialogue betweene Hæc-vir the womanish-man, and Hic-mulier the man-woman.</title>
+               </titleStmt>
+               <extent>[21] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [at Eliot's Court Press] for I. T[rundle] and are to be sold at Christ Church gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to STC 13374 et seq.</note>
+                  <note>With a title-page woodcut; head-piece, initial.</note>
+                  <note>Identification of printer and publisher from STC.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Controversial literature.</term>
+               <term>England --  Social life and customs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174714:1"/>
+            <pb facs="tcp:174714:1"/>
+            <p>
+               <hi>HAEC-<g ref="char:V">Ʋ</g>IR:</hi> OR The Womanish-Man: Being an Anſwere to a late Booke intituled <hi>Hic-Mulier.</hi>
+            </p>
+            <p>Expreſt in a briefe Dialogue betweene <hi>Haec-Vir</hi> the Womaniſh-Man, and <hi>Hic-Mulier</hi> the Man-Woman.</p>
+            <figure/>
+            <p>London printed for <hi>I. T.</hi> and are to be ſold at Chriſt Church gate. 1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174714:2"/>
+            <pb facs="tcp:174714:2"/>
+            <head>
+               <hi>HAEC-<g ref="char:V">Ʋ</g>IR:</hi> OR, <hi>The Womaniſh-Man.</hi>
+            </head>
+            <list>
+               <head>The Speakers.</head>
+               <item>
+                  <hi>Haec-Vir;</hi> The Womaniſh-Man.</item>
+               <item>
+                  <hi>Hic-Mulier;</hi> The Man-Woman.</item>
+            </list>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſt redoubted and worthy Sir (for leſſe then a Knight I cannot take you) you are moſt happily giuen vnto mine imbrace.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Is ſhe mad? or doth ſhee mocke mee? Moſt rare and excellent Lady, I am the ſeruant of your vertues, and deſire to be imployed in your ſeruice.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>Pitie of patience, what doth hee be<g ref="char:EOLhyphen"/>hold in me, to take me for a woman? Valiant and magnanimous Sir, I ſhal deſire to build the Tower of my Fortune vpon no ſtronger foundation then the benefit of your grace and fauour.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>O! proud euer to be your Seruant.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>No, the Seruant of your Seruant.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:174714:3"/>
+               <speaker>Hic-Mul:</speaker>
+               <p>The Tythe of your friendſhip (good Lady) is aboue my merit.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>You make mee rich beyond expreſſi<g ref="char:EOLhyphen"/>on. But faire <hi>Knight,</hi> the truth is I am a Man, and deſire but the obligation of your friendſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>It is ready to be ſealed and deliuered to your vſe. Yet I would haue you vnderſtand I am a Woman.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>Are you a VVoman?</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Are you a Man? O <hi>Iuno Lucina</hi> help me.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>Yes I am.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Your name; moſt tender piece of Maſculine.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>
+                  <hi>Haec-Vir.</hi> No ſtranger either in Court, Citie, or Countrey. But what is yours, moſt coura<g ref="char:EOLhyphen"/>gious counterfet of <hi>Hercales</hi> and his Diſtaffe?</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Neere a kinne to your goodnes; and compounded of fully as falſe Latine. The world cals me, <hi>Hic-Mulier.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>What, <hi>Hic-Mulier,</hi> the Man-Woman? She that like a Larum-Bell at midnight hath raiſed the whole Kingdome in Armes againſt her? Good, ſtand, and let me take a full ſuruay, both of thee, and all thy dependants.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Doe freely: and when thou haſt daw<g ref="char:EOLhyphen"/>bed me ouer, with the worſt colours thy malice can grinde, then giue mee leaue to anſwere for my ſelfe, and I will ſay thou art an accuſer iuſt and in<g ref="char:EOLhyphen"/>different. Which done, I muſt intreat you to ſit as many minutes, that I may likewiſe take your pic<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:174714:3"/>&amp; then referre to cenſure, whether of our defor<g ref="char:EOLhyphen"/>mities is moſt iniurious to Nature, or moſt effeminine to good men, in the notoriouſnes of the example.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>With like condition of freedome to an<g ref="char:EOLhyphen"/>ſwere. The Articles are agreed on: Therefore ſtand forth, halfe <hi>Birchen-Lane,</hi> halfe S<hi rend="sup">t</hi>. <hi>Thomas Apoſtles:</hi> The firſt lent thee a doublet, the later a nether-skirt: Halſe <hi>Bridewell,</hi> halfe <hi>Blacke-Friers;</hi> the one for a ſcuruy Blocke, the other for a moſt prophane Fea<g ref="char:EOLhyphen"/>ther; halfe Mull'd-Sacke the Chimney-ſweeper, halfe <hi>Garrat</hi> the Foole at a Tilting; the one for a Yel<g ref="char:EOLhyphen"/>low Ruffe, the other for a Skarſeable to put a Souldi<g ref="char:EOLhyphen"/>our out of countenance; halfe <hi>Bedlam,</hi> halfe <hi>Bri<g ref="char:EOLhyphen"/>mendgham,</hi> the one for a baſe ſale Boote, the other for a beaſtly Leaden gilt Spurre: and to conclude, all Hell, all Damnation. For a ſhorne, powdered, bor<g ref="char:EOLhyphen"/>rowed Hayre, a naked, laſciuious, bawdy Boſome, a <hi>Leaden-Hall</hi> Dagger, a High-way Piſtoll, and a mind and behauiour ſutable or exceeding euery repeated deformitie. To be briefe, I can but in thoſe few lines deliniate your proportion, for the paraphraſe or compartment, to ſet out your vglineſſe to the grea<g ref="char:EOLhyphen"/>teſt extent of wonder. I can but referre you to your God-child that carries your own name, I meane the Booke of <hi>Hic-Mulier,</hi> there you ſhall ſee your cha<g ref="char:EOLhyphen"/>racter, and feele your ſhame, with that palpable plaineneſſe, that no <hi>Aegyptian</hi> darknes can bee more groſſe and terrible.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>My moſt tender piece of mans fleſh, leaue this lightening and thunder, and come round<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:174714:4"/>to the matter, draw mine accuſation into heads, and then let me anſwere.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>Then thus. In that Booke you are arraig<g ref="char:EOLhyphen"/>ned, and found guilty. Firſt of <hi>Baſeneſſe,</hi> in making your ſelfe a ſlaue to nouelty, and the poore inuenti<g ref="char:EOLhyphen"/>on of euery weake Braine that hath but an imbroi<g ref="char:EOLhyphen"/>dered out-ſide, Next, of <hi>Vnnaturalneſſe,</hi> to forſake the Creation of God, and Cuſtomes of the King<g ref="char:EOLhyphen"/>dome, to be pieced and patched vp by a French Tai<g ref="char:EOLhyphen"/>lor, an Italian Baby-maker, and a Dutch Souldiour (beat from the Armie for the ill example of Ruffian<g ref="char:EOLhyphen"/>ly behauiour) then of <hi>Shameleſneſse,</hi> in caſting off all modeſt ſoftneſſe, and ciuilitie, to runne thorow eue<g ref="char:EOLhyphen"/>ry deſart and wilderneſſe of mens opinions, like care<g ref="char:EOLhyphen"/>leſſe vntamed Heyfers, or wilde Sauages. Laſtly, of <hi>fooliſhneſse,</hi> in hauing no moderation or temper, ei<g ref="char:EOLhyphen"/>ther in paſſions or affections: But turning all into perturbations and ſickneſſes of the ſoule, laugh away the preciouſnes of your Time, and at laſt dye with the flattering ſweet malice of an incurable conſump<g ref="char:EOLhyphen"/>tion. Thus <hi>Baſeneſſe, Vnnaturalneſse, Shameleſneſse, Fooliſhneſse,</hi> are the maine Hatch-ments, or Coat-Armours, which you haue tane as rich ſpoiles to a<g ref="char:EOLhyphen"/>dorne you in the deformitie of your apparell: which if you can excuſe, I can pitie, and thanke <hi>Proſerpina</hi> for thy wit; though no good man can allow of the Reaſons.</p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul:</speaker>
+               <p>Well, then to the purpoſe: Firſt, you ſay,
+<note place="margin">Not Baſe.</note> I am <hi>Baſe,</hi> in being a Slaue to Nouelty. What ſla<g ref="char:EOLhyphen"/>uery can there be in freedome of election? or what baſeneſſe, to crowne my delights with thoſe pleaſures
+<pb facs="tcp:174714:4"/>which are moſt ſutable to mine affections?
+<note place="margin">What Bon<g ref="char:EOLhyphen"/>dage is.</note> Bondage or Slauery, is a reſtraint from thoſe actions, which the minde (of it owne accord) doth moſt willingly deſire: to performe the intents and purpoſes of an<g ref="char:EOLhyphen"/>others diſpoſition, and that not but by manſuetude or ſweetneſſe of intreatie; but by the force of autho<g ref="char:EOLhyphen"/>ritie and ſtrength of compulſion. Now for mee to follow change, according to the limitation of mine owne will and pleaſure,
+<note place="margin">A defence of change.</note> there cannot bee a greater freedome. Nor do I in my delight of change other<g ref="char:EOLhyphen"/>wiſe then as the whole world doth, or as becommeth a daughter of the world to doe. For what is the world, but a very ſhop or ware-houſe of change? Sometimes Winter, ſometimes Summer; day and night: they hold ſometimes Riches, ſometimes Po<g ref="char:EOLhyphen"/>uertie, ſometimes Health, ſometimes Sickneſſe: now Pleaſure; preſe<g ref="char:cmbAbbrStroke">̄</g>tly Anguiſh; now Honour; then con<g ref="char:EOLhyphen"/>tempt: and to conclude, there is nothing but change, which doth ſurround and mixe withall our For<g ref="char:EOLhyphen"/>tunes. And will you haue poore woman ſuch a fixed Starre, that ſhee ſhall not ſo much as moue or twin<g ref="char:EOLhyphen"/>kle in her owne Spheare? That were true Slauery indeed, and a Baſeneſſe beyond the chaines of the worſt ſeruitude. Nature to euery thing ſhe hath crea<g ref="char:EOLhyphen"/>ted, hath giuen a ſingular delight in change, as to Hearbs, Plants and Trees a time to wither and ſhead their leaues, a time to budde and bring forth their leaues, and a time for their Fruits and Flowers: To wormes and creeping things a time to hide them<g ref="char:EOLhyphen"/>ſelues in the pores and hollowes of the earth, and a time to come abroad and ſucke the deaw; To Beaſts
+<pb facs="tcp:174714:5"/>libertie to chuſe their foode, liberty to delight in their food, and liberty to feed and grow fat with their food. The Birds haue the ayre to fly in, the waters to bathe in, and the earth to feed on. But to man, both theſe and all things elſe, to alter, frame and faſhion, according as his will and delight ſhall rule him. A<g ref="char:EOLhyphen"/>gaine, who will rob the eye of the variety of obiects, the eare of the delight of ſounds, the noſe of ſmels, the tong of taſts, &amp; the hand of feeling? &amp; ſhall only woman, excellent woman; ſo much better in that ſhe is ſomething purer, be onely depriued of this bene<g ref="char:EOLhyphen"/>fit? Shall ſhe bee the Bondſlaue of Time, the Hand<g ref="char:EOLhyphen"/>maid of opinion, or the ſtrict obſeruer of euery froſty or cold benummed imagination? It were a cruelty be<g ref="char:EOLhyphen"/>yond the Racke or Strapado.</p>
+               <p>But you will ſay it is not <hi>Change,</hi>
+                  <note place="margin">What nouel<g ref="char:EOLhyphen"/>tie is.</note> but <hi>Noueltie,</hi> from which you deterre vs: a thing that doth euert the good, and erect the euill; preferre the faithleſſe, and confound deſert; that with the change of Opinions breeds the change of States, and with continuall alte<g ref="char:EOLhyphen"/>rations thruſts headlong forward both Ruine and Subuerſion. Alas (ſoft Sir) what can you chryſten by that new imagined Title, when the words of a wiſe<g ref="char:EOLhyphen"/>man are; <hi>that what was done, is but done againe: all things do change, &amp; vnder the cope of Heauen there is no new thing.</hi> So that whatſoeuer wee doe or imitate, it is neither Slauiſh, Baſe, nor a breeder of Nouelty.</p>
+               <p>Next,
+<note place="margin">Not vnnatu<g ref="char:EOLhyphen"/>rall.</note> you condemne me of <hi>Vnnaturalneſse,</hi> in for<g ref="char:EOLhyphen"/>ſaking my creation, and contemning cuſtome. How doe I forſake my creation, that doe all the rights and offices due to my Creation? I was created free, born
+<pb facs="tcp:174714:5"/>free, and liue free: what lets me then ſo to ſpinne out my time, that I may dye free?</p>
+               <p>To alter creation, were to walke on my hands with my heeles vpward, to feed my ſelf with my feet, or to forſake the ſweet ſound of ſweet words, for the hiſ<g ref="char:EOLhyphen"/>ſing noiſe of the Serpent: but I walk with a face erect<g ref="char:EOLhyphen"/>ed, with a body cloathed, with a mind buſied, &amp; with a heart full of reaſonable and deuout cogitations; onely offenſiue in attire, in as much as it is a Stranger to the curioſitie of the preſent times, and an enemie to Cuſtome. Are we then bound to be the Flatterers of Time, or the dependants on Cuſtome? O miſera<g ref="char:EOLhyphen"/>rable ſeruitude chained onely to Baſeneſſe and Fol<g ref="char:EOLhyphen"/>ly! for then cuſtome, nothing is more abſurd, no<g ref="char:EOLhyphen"/>thing more fooliſh.</p>
+               <p>It was a cuſtome amongſt the Romanes,
+<note place="margin">Fooliſh Cu<g ref="char:EOLhyphen"/>ſtomes.</note> that as we waſh our hands before meales, ſo they with curious and ſweet oyntments anointed all their armes and legges quite ouer, and by ſucceſſe of time grew from theſe vnguents to bathes of rich perfumed and com<g ref="char:EOLhyphen"/>pound waters, in which they bathed their whole bo<g ref="char:EOLhyphen"/>dies: holding it the greateſt diſgrace that might be, to vſe or touch any naturall water, as appeares by theſe Verſes.</p>
+               <q>
+                  <l>
+                     <hi>She ſhines with oyntments to make hayre to fall,</hi>
+                     <note place="margin">Mart. l. 2.</note>
+                  </l>
+                  <l>
+                     <hi>Or with ſowre Chalke ſhe ouer-couers all.</hi>
+                  </l>
+               </q>
+               <p>It was a cuſtome amongſt the Ancients to lye vpon ſtately and ſoft beds, when eyther they deliuered Embaſſages, or entered into any ſerious diſcourſe or argument, as appeares by theſe Verſes:
+<pb facs="tcp:174714:6"/>
+                  <q>
+                     <l>
+                        <hi>Father</hi> Aeneas <hi>thus,</hi>
+                        <note place="margin">Virg. Aen. l. 2.</note> 
+                        <hi>gan ſay,</hi>
+                     </l>
+                     <l>
+                        <hi>From ſtately Couch whereon he lay.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Cato Iunior</hi> held it for a cuſtome, neuer to eat meat but ſitting on the ground: the <hi>Venetians</hi> kiſſe one an<g ref="char:EOLhyphen"/>other euer at the firſt meeting: and euen at this day it is a generall receiued cuſtome amongſt our Eng<g ref="char:EOLhyphen"/>liſh, that when we meet or ouertake any man in our trauell or iourneying, to examine him whither hee rides, how farre, to what purpoſe, and where he lod<g ref="char:EOLhyphen"/>geth? nay, and with that vnmannerly boldneſſe of inquiſition, that it is a certaine ground of a moſt in<g ref="char:EOLhyphen"/>ſufficient quarrell, not to receiue a full ſatisfaction of thoſe demands which goe farre aſtray from good manners, or comely ciuilitie; and will you haue vs to marty our ſelues to theſe Mymicke and moſt fanta<g ref="char:EOLhyphen"/>ſticke cuſtomes? It is a faſhion or cuſtome with vs to mourne in Blacke: yet the <hi>Argian</hi> and <hi>Romane</hi> La<g ref="char:EOLhyphen"/>dies euer mourned in White; and (if we will tye the action vpon the ſignification of colours) I ſee not but we may mourne in <hi>Greene, Blue, Red</hi> or any ſim<g ref="char:EOLhyphen"/>ple colour vſed in <hi>Heraldry.</hi> For vs to ſalute ſtrangers with a kiſſe, is counted but ciuilitie, but with forraine Nations immodeſtie: for you to cut the hayre of your vpper lips, familiar heere in England, euery where elſe almoſt thought vnmanly. To ride on Side-Saddles at firſt was counted heere abominable pride, &amp;c. I might inſtance in a thouſand things that onely Cuſtome and not Reaſon hath approued. To conclude <hi>Cuſtome</hi> is an Idiot; and whoſoeuer de<g ref="char:EOLhyphen"/>pendeth
+<pb facs="tcp:174714:6"/>wholely vpon him, without the diſcourſe of Reaſon, will take from him his pyde coat, and be<g ref="char:EOLhyphen"/>come a ſlaue indeed to contempt and cenſure.</p>
+               <p>But you ſay wee are barbarous and ſhameles,
+<note place="margin">Nor ſhameles.</note> and caſt off all ſoftnes, to runne wilde through a wilder<g ref="char:EOLhyphen"/>neſſe of opinions. In this you expreſſe more cruelty then in all the reſt, becauſe I ſtand not with my hands on my belly like a baby at <hi>Bartholomew</hi> Fayre, that moue not my whole body when I ſhould but onely ſtirre my head like Iacke of the Clocke houſe which hath no ioynts, that am not dumbe when wantons court mee, as if Aſſe-like I were ready for all bur<g ref="char:EOLhyphen"/>thens, or becauſe I weep not when iniury gripes me, like a woorried Deere in the fangs of many Curres: am I therefore barbarous or ſhameleſſe? He is much iniurious that ſo baptiz'd vs: we are as free-borne as Men, haue as free election, and as free ſpirits, we are compounded of like parts, and may with like liberty make benefit of our Creations: my countenance ſhal ſmile on the worthy, and frowne on the ignoble, I will heare the Wiſe, and bee deafe to Ideots, giue counſell to my friend, but bee dumbe to flatterers, I haue hands that ſhall bee liberall to reward defert, feete that ſhall moue ſwiftly to do good offices, and thoughts that ſhall euer accompany freedome and ſeuerity. If this bee barbarous, let me leaue the Citie, and liue with creatures of like ſimplicity.</p>
+               <p>To conclude, you ſay wee are all guilty of moſt infinite folly and indiſcretion. I confeſſe,
+<note place="margin">Not fooliſh.</note> that <hi>Diſore<g ref="char:EOLhyphen"/>tion</hi> is the true ſalt which ſeaſoneth euery excellency, eyther in Man or Woman, and without it nothing is
+<pb facs="tcp:174714:7"/>well, nothing is worthy: that want diſgraceth our actions, ſtaineth our Vertues, and indeed makes vs moſt prophane and irreligious, yet it is euer found in exceſſe, as in too much, or too little: and of which of theſe are wee guilty; do we weare too many cloathes or too few? if too many, wee ſhould oppreſſe Na<g ref="char:EOLhyphen"/>ture, if too few, we ſhould bring ſickneſſe to Nature: but neither of theſe wee do, for what we do weare is warme, thrifty and wholeſome, then no exceſſe, and ſo no indiſcretion: where is then the error? onely in the Faſhion, onely in the Cuſtome. Oh for mercy ſake bind vs not to ſo hatefull a companion, but re<g ref="char:EOLhyphen"/>member what one of our famous Engliſh Poets ſayes:
+<q>
+                     <lg>
+                        <l>
+                           <hi>Round-headed Cuſtome th' apaplexie is</hi>
+                           <note place="margin">G.C.</note>
+                        </l>
+                        <l>
+                           <hi>Of Bedrid Nature, and lines led amiſſe,</hi>
+                        </l>
+                        <l>
+                           <hi>And takes away all feeling of offence.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Againe, another as excellent in the ſame Art, ſaith,
+<q>
+                     <lg>
+                        <l>
+                           <hi>Cuſtome the Worlds Iudgement doth blind ſo farre,</hi>
+                           <note place="margin">D'Bart.</note>
+                        </l>
+                        <l>
+                           <hi>That Vertue is oft arraign'd at Vices Barre.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>And will you bee ſo tyrannous then, to compell poore Woman to bee a miſtriſſe to ſo vnfaithfull a Seruant? Beleeue it, then we muſt call vp our Cham<g ref="char:EOLhyphen"/>pions againſt you, which are <hi>Beauty</hi> and <hi>Frailty,</hi> and what the one cannot compell you to forgiue, the o<g ref="char:EOLhyphen"/>ther ſhall inforce you to pitty or excuſe: and thus my ſelfe imagining my ſelfe free of theſe foure Imputati<g ref="char:EOLhyphen"/>ons,
+<pb facs="tcp:174714:7"/>I reſt to bee confuted by ſome better and gra<g ref="char:EOLhyphen"/>uer Iudgement.</p>
+            </sp>
+            <sp>
+               <speaker>Haec. Vir.</speaker>
+               <p>You haue wreſted out ſome wit, to wrangle forth no reaſon; ſince euery thing you would make for excuſe, approues your guilt ſtill more oug<g ref="char:EOLhyphen"/>ly: what baſer bondage, or what more ſeruile baſe<g ref="char:EOLhyphen"/>neſſe, then for the flattering and ſoothing of an vn<g ref="char:EOLhyphen"/>bridled appetite, or delight, to take a wilfull libertie to do euill, and to giue euill example? this is to bee Hels Prentice, not Heauens Free-woman. It is diſ<g ref="char:EOLhyphen"/>putable amongſt our Diuines, whether vpon any oc<g ref="char:EOLhyphen"/>caſion a woman may put on mans attyre, or no: all conclude it vnfit; and the moſt indifferent will allow it, but onely to eſcape perſecution. Now you will not onely put it on, but weare it continually; and not weare it; but take pride in it, not for perſecution, but want on pleaſure; not to eſcape danger, but to runne into damnation; not to helpe others, but to confound the whole ſexe by the euilneſſe of ſo lewd an exam<g ref="char:EOLhyphen"/>ple. <hi>Phalaris</hi> (though an extreme tyrant) when he executed the inuenter of the Brazen Bull in the Bull) did it not ſo much for the pleaſure he tooke in the torment, as to cut from the earth a braine ſo diueliſh and full of vnciuill and vnnaturall inuentions. And ſure had the firſt inuenter of your diſguiſe periſht with all her cooplements about her, a world had been pre<g ref="char:EOLhyphen"/>ſerued from ſcandall and ſlander; for from one euill to beget infinites, or to nouriſh ſin with a delight in ſinne, is of all habits the loweſt, ignobleſt and baſeſt.</p>
+               <p>Now, who knowes not, that to yeeld to baſeneſſe, muſt needs be folly? (for what Wiſedome will bee
+<pb facs="tcp:174714:8"/>guilty of its owne iniury?) To be fooliſhly baſe, how can there bee an action more barbarous? and to bee baſe, fooliſh and barbarous, how can there appeare any ſparke, twinkle, or but ember of diſcretion or iudgement? So that notwithſtanding your elaborat plea for freedome, your ſeuere condemnation of cuſtome, your fayre promiſe of ciuill actions, and your temperate auoiding of exceſſe, whereby you would ſeeme to hugge and imbrace diſcretion; yet till you weare hats to deſend the Sunne, not to couer ſhorne locks, Caules to adorne the head, not <hi>Grego<g ref="char:EOLhyphen"/>rians</hi> to warme idle braines, till you weare innocent white Ruffes, not iealous yellow iaundis'd bands, well ſhapt, comely and cloſe Gownes, not light skirts and French doublets, for Poniards, Samplers, for Piſtols Prayer-bookes, and for ruffled Bootes and Spurres, neate Shooes and cleane-garterd Stockings, you ſhall neuer loſe the title of <hi>Baſeneſse, Vnnaturalnes, Shameleſneſſe,</hi> and <hi>Fooliſhneſſe,</hi> you ſhall feede <hi>Bal<g ref="char:EOLhyphen"/>lads,</hi> make rich ſhops, arme contempt, and onely ſtarue and make poore your ſelues and your reputa<g ref="char:EOLhyphen"/>tions. To conclude, if you will walke without diffe<g ref="char:EOLhyphen"/>rence, you ſhall liue without reuerence: if you will conte<g ref="char:cmbAbbrStroke">̄</g>ne order, you muſt indure the ſhame of diſor<g ref="char:EOLhyphen"/>der; and if you will haue no rulers but your wills, you muſt haue no reward but diſdaine and diſgrace, according to the ſaying of an excellent Engliſh Poet:
+<q>
+                     <lg>
+                        <l>
+                           <hi>A ſtronger hand reſtraines eur wilfull powers,</hi>
+                           <note place="margin">C. M.</note>
+                        </l>
+                        <l>
+                           <hi>A Will muſt rule aboue this will of ours;</hi>
+                        </l>
+                        <pb facs="tcp:174714:8"/>
+                        <l>
+                           <hi>Not following what our vaine deſires do woo,</hi>
+                        </l>
+                        <l>
+                           <hi>For Vertues ſake but what wee ought to deo.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hic-Mul.</speaker>
+               <p>Sir, I confeſſe you haue rayſd mine eie<g ref="char:EOLhyphen"/>lids vp, but you haue not cleane taken away the filme that couers the ſight: I feele (I confeſſe) cauſe of be<g ref="char:EOLhyphen"/>liefe, and would willingly bend my heart to enter<g ref="char:EOLhyphen"/>taine beliefe, but when the accuſer is guilty of as much or more then that hee accuſeth, or that I ſee you refuſe the potion, and are as grieuouſly infected, blame mee not then a little to ſtagger, and till you will bee pleaſ'd to be cleans'd of that leproſie which I ſee apparant in you, giue me leaue to doubt whe<g ref="char:EOLhyphen"/>ther mine infection be ſo contagious, as your blinde ſeuerity would make it.</p>
+               <p>Therefore to take your proportion in a few lines,
+<note place="margin">The deſcripti<g ref="char:EOLhyphen"/>on of a Wo<g ref="char:EOLhyphen"/>maniſh Man.</note> (my deare Feminine Maſculine) tell me what Char<g ref="char:EOLhyphen"/>ter, preſcription or right of claime you haue to thoſe things you make our abſolute inheritance? why doe you curle, frizell and powder your hayres, beſtowing more houres and time in deniding locke from lock, and hayre from hayre, in giuing euery thread his poſture, and euery curle his true ſence and circum<g ref="char:EOLhyphen"/>pherence then euer <hi>Caeſar</hi> did in marſhalling his Ar<g ref="char:EOLhyphen"/>my, eyther at <hi>Pharſalia,</hi> in <hi>Spaine,</hi> or <hi>Brittaine?</hi> why doe you rob vs of our Ruffes, of our Earetings, Car<g ref="char:EOLhyphen"/>kanets, and Mamillions, of our Fannes and Feathers, our Busks and French bodies, nay, of our Maskes, Hoods, Shadowes and Shapynas? not ſo much as the very Art of Painting, but you haue ſo greedily ingroſt it, that were it not for that little fantaſticall
+<pb facs="tcp:174714:9"/>ſharp pointed dagger that hangs at your chins, &amp; the croſſe hilt which gards your vpper lip, hardly would there be any difference between the fayre Miſtris &amp; the fooliſh Seruant. But is this theft the vttermoſt of our Spoyle? Fie, you haue gone a world further, and euen rauiſht from vs our ſpeech, our actions, ſports and recreations. Goodneſſe leaue mee, if I haue not heard a Man court his Miſtris with the ſame words that <hi>Venus</hi> did <hi>Adonis,</hi> or as neere as the Booke could inſtruct him; where are the Tilts and Tournies, and loftie Gallyards that were daunſt in the daies of old, when men caperd in the ayre like wanton kids on the tops of Mountaines, and turnd aboue ground as if they had been compact of Fire or a purer element? Tut all's forſaken, all's vaniſht, thoſe motions ſhewed more ſtrength then Art, and more courage then courtſhip; it was much too robuſtious, and rather ſpent the body then prepared it, eſpecially where a<g ref="char:EOLhyphen"/>ny defect before raigned; hence you tooke from vs poore Women our trauerſes and tourneys, our mo<g ref="char:EOLhyphen"/>deſt ſtatelineſſe and curious ſlidings, and left vs no<g ref="char:EOLhyphen"/>thing but the new French garbe of puppet hopping and letting. Laſtly, poore Sheetle-cock that was on<g ref="char:EOLhyphen"/>ly a female inuention, how haue you taken it out of our hands, and made your ſelues ſuch Lords and Ru<g ref="char:EOLhyphen"/>lers ouer it, that though it be a very Embleme of vs, and our lighter deſpiſed fortunes, yet it dare now hardly come neere vs; nay, you keepe it ſo impri<g ref="char:EOLhyphen"/>ſond within your Bedde-Chambers and dyning roomes, amongſt your Pages and Panders, that a poore innocent Mayd to giue but a kicke with her
+<pb facs="tcp:174714:9"/>Battle-dore, were more then halfe way to the ruine of her reputation. For this you haue demoliſh'd the noble ſchooles of Horſ-manſhip (of which many were in this Citie) hung vp your Armes to ruſt, glu<g ref="char:EOLhyphen"/>ed vp thoſe ſwords in their ſcabberds that would ſhake all Chriſtendome with the brandiſh, and enter<g ref="char:EOLhyphen"/>tained into your mindes ſuch ſoftnes, dulneſſe and effeminate niceneſſe, that it would euen make <hi>He<g ref="char:EOLhyphen"/>raclitus</hi> himſelfe laugh againſt his nature to ſee how pulingly you languiſh in this weake en<g ref="char:EOLhyphen"/>tertained ſinne of womaniſh ſoftneſſe: To ſee one of your gender either ſhew himſelfe (in the midſt of his pride or riches) at a Play houſe, or publique aſſembly how; (before he dare enter) with the <hi>Iacobs</hi> Staffe of his owne eyes and his Pages, hee takes a full ſuruay of himſelfe, from the higheſt ſprig in his feather, to the loweſt ſpangle that ſhines in his Shoo-ſtring: how he prunes and picks himſelfe like a Hawke ſet a weathering, cals euery ſeuerall garment to Auricular confeſsion, making them vt<g ref="char:EOLhyphen"/>ter both their mortall great ſtaines, and their veniall and leſſe blemiſhes, though the moat bee much leſſe then an Attome: Then to ſee him plucke and tugge euery thing into the forme of the neweſt receiued faſhion; and by <hi>Durers</hi> rules make his legge anſwe<g ref="char:EOLhyphen"/>rable to his necke; his thigh proportionable with his middle, his foote with his hand, and a world of ſuch idle diſdained foppery: To ſee him thus patcht vp with Symetry, make himſelfe complete, and euen as a circle: and laſtly, caſt himſelfe amongſt the eyes of the people (as an obiect of wonder) with more
+<pb facs="tcp:174714:10"/>niceneſſe, then a Virgin goes to the ſheetes of her firſt Louer, would make patience her ſelfe mad with anger, and cry with the Poet:
+<q>
+                     <lg>
+                        <l>
+                           <hi>O Hominum mores, O gens, O Tempora dura,</hi>
+                        </l>
+                        <l>
+                           <hi>Quantus in vrbe Dolor; Quantus in Orbe Dolus!</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Now ſince according to your own Inference, euen by the Lawes of Nature, by the rules of Religion, and the Cuſtomes of all ciuill Nations, it is neceſſary there be a diſtinct and ſpeciall difference betweene Man and Woman, both in their habit and behaui<g ref="char:EOLhyphen"/>ours: what could we poore weake women doe leſſe (being farre too weake by force to fetch backe thoſe ſpoiles you haue vniuſtly taken from vs) then to ga<g ref="char:EOLhyphen"/>ther vp thoſe garments you haue proudly caſt away, and therewith to cloath both our bodies and our mindes; ſince no other meanes was left vs to conti<g ref="char:EOLhyphen"/>nue our names, and to ſupport a difference? for to haue held the way in which our fore-fathers firſt ſet vs, or to haue ſtill imbraced the ciuill modeſtie, or gentle ſweetneſſe of our ſoft inclinations; why, you had ſo farre incroacht vpon vs, and ſo ouer-brib'd the world, to be deaſe to any grant of Reſtitution, that as at our creation, our whole ſexe was contained in man our firſt Parent, ſo we ſhould haue had no o<g ref="char:EOLhyphen"/>ther beeing, but in you, and your moſt effeminate qualitie. Hence we haue preſerued (though to our owne ſhames) thoſe manly things which you haue forſaken, which would you againe accept, and re<g ref="char:EOLhyphen"/>ſtore to vs the Bluſhes we layd by, when firſt wee put on your Maſculine garments; doubt not but chaſte
+<pb facs="tcp:174714:10"/>thoughts and baſhfulneſſe will againe dwell in vs, and our Palaces beeing newly gilt, trimmed, and re<g ref="char:EOLhyphen"/>edified, draw to vs all the <hi>Graces,</hi> all the <hi>Muſes;</hi> which that you may more willingly doe, and (as wee of yours) growe into deteſtation of that deformitie you haue purloyn'd, to the vtter loſſe of your Honours and Reputations? Marke how the braue Italian Poet, euen in the Infancy of your abuſes, moſt liuely deſcribes you;
+<q>
+                     <lg>
+                        <l>
+                           <hi>About his necke a Carknet rich he ware</hi>
+                           <note place="margin">Arioſt.</note>
+                        </l>
+                        <l>
+                           <hi>Of precious Stones, all ſet in gold well tryed;</hi>
+                        </l>
+                        <l>
+                           <hi>His armes that earſt all warlike weapons bare,</hi>
+                        </l>
+                        <l>
+                           <hi>In golden Bracelets want only were tyed:</hi>
+                        </l>
+                        <l>
+                           <hi>Into his eares two Rings conuayed are</hi>
+                        </l>
+                        <l>
+                           <hi>Of golden Wyer, at which on either ſide,</hi>
+                           <note place="margin">A deſcription Effeminate<g ref="char:EOLhyphen"/>neſſe.</note>
+                        </l>
+                        <l>
+                           <hi>Two Indian Pearles, in making like two Peares,</hi>
+                        </l>
+                        <l>
+                           <hi>Of paſsing price were pendant at his eares.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>His Locks bedewed with waters of ſweet ſauour,</hi>
+                        </l>
+                        <l>
+                           <hi>Stood curled round in order on his head;</hi>
+                        </l>
+                        <l>
+                           <hi>He had ſuch wanton womaniſh behauiour,</hi>
+                        </l>
+                        <l>
+                           <hi>As though in Valor he had ne're been bred:</hi>
+                        </l>
+                        <l>
+                           <hi>So chang'd in ſpeech, in manners and in fauour,</hi>
+                        </l>
+                        <l>
+                           <hi>So from himſelfe beyond all reaſon led,</hi>
+                        </l>
+                        <l>
+                           <hi>By theſe inchantments of this amorous Dame;</hi>
+                        </l>
+                        <l>
+                           <hi>He was himſelfe in nothing, but in name.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Thus you ſee your iniury to vs is of an old and in<g ref="char:EOLhyphen"/>ueterate continuance, hauing taken ſuch ſtrong root in your boſomes, that it can hardly bee pull'd vp,
+<pb facs="tcp:174714:11"/>without ſome offence to the ſoyle: ours yong and tender, ſcarce freed from the Swaddling clouts, and therefore may with as much eaſe bee loſt, as it was with little difficulty found. Caſt then from you our ornaments, and put on your owne armours: Be men in ſhape, men in ſhew, men in words, men in actions, men in counſell, men in example: then will we loue and ſerue you; then will wee heare and obey you; then will wee like rich Iewels hang at your eares to take our Inſtructions, like true friends follow you through all dangers, and like carefull leeches powre oyle into your wounds: Then ſhall you finde delight in our words; pleaſure in our faces; faith in our hearts; chaſtitie in our thoughts, and ſweetneſſe both in our inward &amp; outward inclinations. Come<g ref="char:EOLhyphen"/>lineſſe ſhall be then our ſtudy; feare our Armour, and modeſtie our practice: Then ſhall we be all your moſt excellenteſt thoughts can deſire, and haue no<g ref="char:EOLhyphen"/>thing in vs leſſe then impudence and deformitie.</p>
+            </sp>
+            <sp>
+               <speaker>Haec-Vir.</speaker>
+               <p>Inough: You haue both raiſ'd mine eye-lids, cleered my ſight, and made my heart enter<g ref="char:EOLhyphen"/>taine both ſhame and delight at an inſtant; ſhame in my Follies paſt; delight in our Noble and worthy Conuerſion. Away then from me theſe light vani<g ref="char:EOLhyphen"/>ties, the onely Enſignes of a weake and ſoft nature: and come you graue and ſolid pieces, which arme a man with Fortitude and Reſolution: you are too tough and ſtubborne for a womans wearing, we will heere change our attires, as wee haue chang'd our mindes, and with our attires, our names. I will no more be <hi>Haec-Vir,</hi> but <hi>Hic Vir,</hi> nor you <hi>Hic-Mulier,</hi>
+                  <pb facs="tcp:174714:11"/>but <hi>Haec Mulier:</hi> from henceforth deformitie ſhall packe to Hell: and if at any time hee hide himſelfe vpon the earth, yet it ſhall bee with contempt and diſgrace. Hee ſhall haue no friend but Pouerty; no fauourer but Folly, nor no reward but Shame. Henceforth we will liue nobly like our ſelues, euer ſober, euer diſcreet, euer worthy; true men, and true women. We will bee henceforth like well-coupled Doues, full of induſtry, full of loue: I meane, not of ſenſuall and carnall loue, but heauenly and diuine loue, which proceedes from God; whoſe vnexpreſ<g ref="char:EOLhyphen"/>ſable nature none is able to deliuer in words, ſince it is like his dwelling, high and beyond the reach of humane apprehenſion; according to the ſaying of the Poet, in theſe Verſes following:
+<q>
+                     <lg>
+                        <l>
+                           <hi>Of loues perfection perfectly to ſpeake,</hi>
+                        </l>
+                        <l>
+                           <hi>Or of his nature rightly to define,</hi>
+                        </l>
+                        <l>
+                           <hi>Indeed doth farre ſurpaſſe our reaſons reach,</hi>
+                        </l>
+                        <l>
+                           <hi>And needs his Prieſt t' expreſſe his power diuine,</hi>
+                        </l>
+                        <l>
+                           <hi>For long before the world he was ybore,</hi>
+                        </l>
+                        <l>
+                           <hi>And bred aboue ith hy'ſt celeſtiall Spheare,</hi>
+                        </l>
+                        <l>
+                           <hi>For by his power the world was made of yore,</hi>
+                        </l>
+                        <l>
+                           <hi>And all that therein wondrous doth appeare.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174714:12"/>
+            <pb facs="tcp:174714:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
